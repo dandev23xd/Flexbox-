@@ -1,2 +1,2 @@
-# Flexbo
+# Flexbox
 Flexbox 
